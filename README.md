@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeniseCG
-- 👀 I’m interested in learning about mobil apps
+- 👀 I’m interested in learning about mobile apps
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me 
